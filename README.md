@@ -5,6 +5,7 @@
 
 I am a Passionate Java Software Engineer and mathematician with expertise in core Java, Spring Framework, and Microservices Architecture. Eager to learn new technologies and stay updated on industry trends. Enjoys sharing knowledge and collaborating with the community.
 
+
 ## 👨‍💻 Professional Skills
 
 - **Backend:** core Java, Spring Framework, Microservices Architecture
