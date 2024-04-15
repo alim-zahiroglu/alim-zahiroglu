@@ -12,7 +12,3 @@ I am a Passionate Java Software Engineer and mathematician with expertise in cor
 - **DevOps:** Amazon Web Services (AWS), Docker, CircleCI, gitHub actions
 - **Frontend:** Bootstrap, Thymeleaf, HTML, CSS
 - **Database:** Relational Database (PostgreSQL, mySql)
-
-![Alim's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koltikin&theme=vue)
-![Alim's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=koltikin&theme=vue)
-![Alim's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=koltikin&theme=vue&exclude=exclude)
