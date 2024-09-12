@@ -10,7 +10,7 @@ I am a Passionate Java Software Engineer and mathematician with expertise in cor
 
 - **Backend:** core Java, Spring Framework, Microservices Architecture
 - **DevOps:** Amazon Web Services (AWS), Docker, CircleCI, gitHub actions
-- **Frontend:** Bootstrap, Thymeleaf, HTML, CSS
+- **Frontend:** React, Next.js, Bootstrap, Thymeleaf, HTML, CSS, JavaScript
 - **Database:** Relational Database (PostgreSQL, mySql)
 
 
