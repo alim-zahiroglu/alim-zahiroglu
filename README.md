@@ -14,5 +14,5 @@ I am a Passionate Java Software Engineer and mathematician with expertise in cor
 - **Database:** Relational Database (PostgreSQL, mySql)
 
 
-![Alim's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=koltikin&theme=vue)
-![Alim's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=koltikin&theme=vue&exclude=exclude)
+![Alim's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alim-zahiroglu&theme=vue)
+![Alim's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alim-zahiroglu&theme=vue&exclude=exclude)
